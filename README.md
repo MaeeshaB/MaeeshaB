@@ -22,4 +22,4 @@ Deep Learning](http://introtodeeplearning.com/))
 
 ---
 :computer:   [maeeshabiswas.com](https://maeeshabiswas.com/) <br>
-<img src="/assets/linkedin.png" alt="LinkedIn Logo" width="16"/>         [linkedin.com/in/maeeshabiswas/](https://www.linkedin.com/in/maeeshabiswas/)
+:briefcase:    [linkedin.com/in/maeeshabiswas/](https://www.linkedin.com/in/maeeshabiswas/)
