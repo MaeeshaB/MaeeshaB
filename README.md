@@ -1,4 +1,4 @@
-### Hi there, it's Maeesha 👋
+### 👋🏽 Hi there, it's Maeesha
 #### :computer:   [maeeshabiswas.com](https://maeeshabiswas.com/) <br>
 _:arrow_up: My website is the most up to date reflection of my life_
 
